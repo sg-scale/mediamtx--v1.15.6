@@ -1,6 +1,6 @@
 module github.com/bluenviron/mediamtx
 
-go 1.25.0
+go 1.26.0
 
 require (
 	code.cloudfoundry.org/bytefmt v0.59.0
@@ -25,7 +25,7 @@ require (
 	github.com/gookit/color v1.6.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/matthewhartstonge/argon2 v1.4.4
+	github.com/matthewhartstonge/argon2 v1.6.4
 	github.com/minio/selfupdate v0.6.0
 	github.com/pion/ice/v4 v4.1.0
 	github.com/pion/interceptor v0.1.42
@@ -36,9 +36,9 @@ require (
 	github.com/pion/transport/v3 v3.1.1
 	github.com/pion/webrtc/v4 v4.2.1
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/crypto v0.46.0
-	golang.org/x/sys v0.39.0
-	golang.org/x/term v0.38.0
+	golang.org/x/crypto v0.58.0
+	golang.org/x/sys v0.49.0
+	golang.org/x/term v0.47.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -94,8 +94,8 @@ require (
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	golang.org/x/arch v0.20.0 // indirect
-	golang.org/x/net v0.48.0 // indirect
-	golang.org/x/text v0.32.0 // indirect
+	golang.org/x/net v0.60.0 // indirect
+	golang.org/x/text v0.43.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
